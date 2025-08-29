@@ -1,4 +1,4 @@
-package com.katoch.bajaj_hiring_task;
+package com.aniket.bajaj_hiring_task;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
