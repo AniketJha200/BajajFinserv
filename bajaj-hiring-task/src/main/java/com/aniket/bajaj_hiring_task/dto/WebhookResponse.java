@@ -1,4 +1,4 @@
-package com.katoch.bajaj_hiring_task.dto;
+package com.aniket.bajaj_hiring_task.dto;
 
 public class WebhookResponse {
 
