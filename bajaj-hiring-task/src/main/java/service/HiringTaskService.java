@@ -1,8 +1,8 @@
 package service;
 
-import com.katoch.bajaj_hiring_task.dto.SolutionRequest;
-import com.katoch.bajaj_hiring_task.dto.WebhookRequest;
-import com.katoch.bajaj_hiring_task.dto.WebhookResponse;
+import com.aniket.bajaj_hiring_task.dto.SolutionRequest;
+import com.aniket.bajaj_hiring_task.dto.WebhookRequest;
+import com.aniket.bajaj_hiring_task.dto.WebhookResponse;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
